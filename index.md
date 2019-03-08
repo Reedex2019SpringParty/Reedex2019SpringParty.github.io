@@ -2,7 +2,7 @@
 
 Reedexが毎年行っている恒例行事です
 今年はパートナー会社の方や、選考中の方など社外の方にも楽しんで頂けるお花見を企画しております
-![top](https://github.com/Reedex2019SpringParty/Reedex2019SpringParty.github.io/blob/images/hanami_family.png)
+![top](https://github.com/Reedex2019SpringParty/Reedex2019SpringParty.github.io/blob/images/hanami_family.png?raw=true)
 
 ## 詳細
 
