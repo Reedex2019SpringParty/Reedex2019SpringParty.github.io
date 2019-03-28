@@ -1,5 +1,8 @@
 # Reedex花見2019
 
+# 大変申し訳ありませんが、当日の天候が芳しく無く気温も低い為、本イベントは中止となりました
+
+
 Reedexが毎年行っている恒例行事です  
 今年はパートナー会社の方や、選考中の方など社外の方にも楽しんで頂けるお花見を企画しております  
 [Googleカレンダーに追加する](http://www.google.com/calendar/event?action=TEMPLATE&dates=20190311T020000Z%2F20190311T070000Z&text=REEDEX%E8%8A%B1%E8%A6%8B%40%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AC%E5%9C%92&location=%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AC%E5%9C%92%2C%20%E6%97%A5%E6%9C%AC%E3%80%81%E3%80%92151-0052%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%E7%A5%9E%E5%9C%92%E7%94%BA%EF%BC%92%E2%88%92%EF%BC%91&details=https%3A%2F%2Freedex2019springparty.github.io%2F)  
